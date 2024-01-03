@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url(./assets/galaxy.gif);
+}
+
+.planet-container{
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+#planet-img img{
+    width: 350px;
+    height: 350px;
+}
+
+.weigth-container{
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.kg{
+    background-color: rgba(255, 255, 255, 0.1);
+    height: 150px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
